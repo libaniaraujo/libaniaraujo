@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Libania Silva.
 - 📚 Sou economista e doutoranda em Economia Aplicada.
-- 👩‍💻 Atualmente tenho me dedicado ao estudo de ciência de dados.
+- 👩‍💻 Atualmente tenho me dedicado ao estudo da Ciência de Dados.
 - 📫 How to reach me: https://www.linkedin.com/in/libania-araujo-silva-0378a016b/
      
 
