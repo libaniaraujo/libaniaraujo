@@ -1,8 +1,8 @@
-- 👋 Olá, eu sou Libania.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou Libania Silva.
+- 📚 Sou economista e doutoranda em Economia Aplicada.
+- 👩‍💻 Atualmente tenho me dedicado ao estudo de ciência de dados.
+- 📫 How to reach me: https://www.linkedin.com/in/libania-araujo-silva-0378a016b/
+     
 
 <!---
 libaniaraujo/libaniaraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
