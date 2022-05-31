@@ -6,6 +6,12 @@
 ## Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/libania-araujo-silva/)
 
+## 🛠️ Ferramentas Analíticas
+
+- <b> Coleta e armazenamento de dados:</b> SQL e MySQL
+- <b> Manipulação de dados:</b> Python e R
+- <b> Visualização de dados:</b> Power BI e Tableau
+
 ## 💻 Projetos de Análise e Ciência de Dados
 
 - 
@@ -17,22 +23,20 @@
   - Curso de SQL (Soft Blue)
  
 - <b>Python:</b>
+  - Programação em Python: O Guia para Iniciantes
+  - Estatística para Ciência de Dados e Machine Learning
 
 - <b>R:</b>
 
 - <b>Ciência de Dados e Machine Learning:</b>
-  - Formação Cientista de Dados (Udemy - Fernando Amaral)
+  - Machine Learning e Data Science (IA Expert Academy)
 
 - <b>Power BI:</b>
   - Curso Microsoft Power BI Para Data Science (Data Science Academy)
 
 - <b>Tableau:</b>
 
-## 🛠️ Ferramentas Analíticas
 
-- <b> Coleta e armazenamento de dados:</b> SQL e MySQL
-- <b> Manipulação de dados:</b> Python e R
-- <b> Visualização de dados:</b> Power BI e Tableau
 
 
 
