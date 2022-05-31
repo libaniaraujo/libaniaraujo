@@ -25,9 +25,16 @@
 
 ## 🛠️ Ferramentas Analíticas
 
-- <b> Coleta e armazenamento de dados:<b> SQL e MySQL
-- <b> Manipulação de dados:<b> Python e R
-- <b> Visualização de dados:<b> Power BI e Tableau
+- <b> Coleta e armazenamento de dados:</b> SQL e MySQL
+- <b> Manipulação de dados:</b> Python e R
+- <b> Visualização de dados:</b> Power BI e Tableau
+
+
+
+
+
+
+
 
 
 
