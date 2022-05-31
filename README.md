@@ -1,6 +1,6 @@
 
 - 📊 Graduada, mestre a atualmente doutoranda em Economia
-- 💻 Entusiasta da análise e da ciência de dados
+- 💻 Entusiasta da análise e ciência de dados
 - 📍 Juiz de Fora - Minas Gerais
 
 ## Contato:
