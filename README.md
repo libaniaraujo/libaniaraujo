@@ -1,6 +1,6 @@
 
 - 📊 Graduada, mestre a atualmente doutoranda em Economia
-- 💻 Análise de dados
+- 💻 Entusiasta da Análise e Ciência de Dados
 - 📍 Juiz de Fora - Minas Gerais
 
 ## Contato:
@@ -8,6 +8,16 @@
 
 ## 💻 Projetos de Análise e Ciência de Dados
 
+- 
+
 ## 📚 Projetos de Estudo
+
+- SQL
+- Python
+- R
+- Ciência de Dados e Machine Learning
+- Power BI
+- Tableau
+- -
 
 ## 🛠️ Ferramentas Analíticas
