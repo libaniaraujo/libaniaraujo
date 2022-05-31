@@ -23,8 +23,9 @@
   - Curso de SQL (Soft Blue)
  
 - <b>Python:</b>
-  - Programação em Python: O Guia para Iniciantes
-  - Estatística para Ciência de Dados e Machine Learning
+  - Curso de Python 3 (Curso em Video)
+  - Programação em Python: O Guia para Iniciantes (IA Expert Academy)
+  - Estatística para Ciência de Dados e Machine Learning em Python (IA Expert Academy)
 
 - <b>R:</b>
 
