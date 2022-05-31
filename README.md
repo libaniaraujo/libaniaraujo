@@ -12,16 +12,21 @@
 
 ## 📚 Projetos de Estudo
 
-- SQL
+- <b>SQL:</b>
   - Curso MySQL (Curso em Video)
   - Curso de SQL (Soft Blue)
-- Python
-- R
-- Ciência de Dados e Machine Learning
+ 
+- <b>Python:</b>
+
+- <b>R:</b>
+
+- <b>Ciência de Dados e Machine Learning:</b>
   - Formação Cientista de Dados (Udemy - Fernando Amaral)
-- Power BI
+
+- <b>Power BI:</b>
   - Curso Microsoft Power BI Para Data Science (Data Science Academy)
-- Tableau
+
+- <b>Tableau:</b>
 
 ## 🛠️ Ferramentas Analíticas
 
