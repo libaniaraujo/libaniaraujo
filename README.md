@@ -35,7 +35,10 @@
 - <b>Power BI:</b>
   - Curso Microsoft Power BI Para Data Science (Data Science Academy)
 
-- <b>Tableau:</b>
+- <b>Comunidade DS:</b>
+  - Python Fundamentos
+  - Python 0 ao DS
+  - Python DS ao Dev 
 
 
 
