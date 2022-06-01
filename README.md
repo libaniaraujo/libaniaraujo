@@ -9,7 +9,7 @@
 ### 🛠️ Ferramentas Analíticas
 
 - <b> Coleta e armazenamento de dados:</b> SQL e MySQL
-- <b> Manipulação de dados:</b> Python e R
+- <b> Manipulação de dados:</b> Python, R e Stata
 - <b> Visualização de dados:</b> Power BI e Tableau
 
 ### 💻 Projetos de Análise e Ciência de Dados
