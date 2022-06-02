@@ -1,4 +1,11 @@
+## 👋 Oi, sou Libania!
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/94937578/171708464-e2a6a708-e4b9-4ab2-9268-4b3161e974ba.png" width="1000px"/>
+</div>
+
+### Sobre mim:
 - 📊 Graduada, mestre a atualmente doutoranda em Economia
 - 💻 Entusiasta da análise e ciência de dados
 - 📍 Juiz de Fora - Minas Gerais
@@ -6,39 +13,25 @@
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/libania-araujo-silva/)
 
-### 🛠️ Ferramentas Analíticas
+### 🛠️ Ferramentas:
 
 - <b> Coleta e armazenamento de dados:</b> SQL e MySQL
 - <b> Manipulação de dados:</b> Python, R e Stata
 - <b> Visualização de dados:</b> Power BI e Tableau
 
-### 💻 Projetos de Análise e Ciência de Dados
+### 💻 Projetos de análise e ciência de dados:
 
-- 
+- <b> House Rocket</b>
 
-### 📚 Projetos de Estudo
+### 📚 Projetos de estudo:
 
 - <b>SQL:</b>
-  - Curso MySQL (Curso em Video)
-  - Curso de SQL (Soft Blue)
- 
 - <b>Python:</b>
-  - Curso de Python 3 (Curso em Video)
-  - Programação em Python: O Guia para Iniciantes (IA Expert Academy)
-  - Estatística para Ciência de Dados e Machine Learning em Python (IA Expert Academy)
-
 - <b>R:</b>
-
 - <b>Ciência de Dados e Machine Learning:</b>
-  - Machine Learning e Data Science (IA Expert Academy)
-
 - <b>Power BI:</b>
-  - Curso Microsoft Power BI Para Data Science (Data Science Academy)
-
 - <b>Comunidade DS:</b>
-  - Python Fundamentos
-  - Python 0 ao DS
-  - Python DS ao Dev 
+
 
 
 
