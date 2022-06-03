@@ -11,7 +11,8 @@
 - 📍 Juiz de Fora - Minas Gerais
 
 ### Contato:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/libania-araujo-silva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libania-araujo-silva/)](https://www.linkedin.com/in/libania-araujo-silva/)
+[![Email Badge](https://img.shields.io/badge/email-libaniaaraujo147@gmail.com-red)](libaniaaraujo147@gmail.com)
 
 ### 🛠️ Ferramentas:
 
@@ -25,16 +26,20 @@
 
 ### 📚 Projetos de estudo:
 
-- <b>SQL:</b>
-- <b>Python:</b>
-- <b>R:</b>
-- <b>Ciência de Dados e Machine Learning:</b>
-- <b>Power BI:</b>
-- <b>Comunidade DS:</b>
+- <b>[SQL](https://github.com/libaniaraujo/SQL) 
+- <b>Python</b>
+- <b>R</b>
+- <b>Ciência de Dados e Machine Learning</b>
+- <b>Power BI</b>
+- <b>Comunidade DS</b>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libaniaraujo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 
