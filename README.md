@@ -26,11 +26,12 @@
 
 ### 📚 Materiais de estudo:
 
-- <b>[SQL](https://github.com/libaniaraujo/SQL) 
-- <b>Python</b>
+- <b>[Python](https://github.com/libaniaraujo/Python) 
 - <b>R</b>
+- <b>[SQL](https://github.com/libaniaraujo/SQL) 
 - <b>Ciência de Dados e Machine Learning</b>
-- <b>Power BI</b>
+- <b>[Power BI](https://github.com/libaniaraujo/Power-BI)
+- <b>Tableau
 - <b>Comunidade DS</b>
 
 ---
