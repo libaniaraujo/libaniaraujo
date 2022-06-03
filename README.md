@@ -12,6 +12,9 @@
 
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/libania-araujo-silva/)
+<a href="mailto:libaniaaraujo147@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
 ### 🛠️ Ferramentas:
 
@@ -32,7 +35,9 @@
 - <b>Power BI:</b>
 - <b>Comunidade DS:</b>
 
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libaniaraujo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
