@@ -24,7 +24,7 @@
 
 - <b> House Rocket</b>
 
-### 📚 Projetos de estudo:
+### 📚 Materiais de estudo:
 
 - <b>[SQL](https://github.com/libaniaraujo/SQL) 
 - <b>Python</b>
