@@ -22,7 +22,7 @@
 
 ### 💻 Projetos de análise e ciência de dados:
 
-- <b> House Rocket</b>
+- <b> House Sales</b> (análise e visualização de dados sobre a compra e venda de imóveis)
 
 ### 📚 Materiais de estudo:
 
