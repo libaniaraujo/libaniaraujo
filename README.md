@@ -22,7 +22,7 @@
 
 ### Projetos de análise e ciência de dados:
 
-- [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES) (análise e visualização de dados sobre a compra e venda de imóveis)
+- [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES): análise, visualização e obtenção de insights a partir de um conjunto de dados referente a compra e venda de imóveis.
 
 ### Materiais de estudo e consulta:
 
