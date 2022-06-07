@@ -24,7 +24,7 @@
 
 - [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES) (análise e visualização de dados sobre a compra e venda de imóveis)
 
-### Materiais de estudo:
+### Materiais de estudo e consulta:
 
 - <b>[Python](https://github.com/libaniaraujo/Python) 
 - <b>[R](https://github.com/libaniaraujo/R)
