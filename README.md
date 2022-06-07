@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libania-araujo-silva/)](https://www.linkedin.com/in/libania-araujo-silva/)
 [![Email Badge](https://img.shields.io/badge/email-libaniaaraujo147@gmail.com-red)](libaniaaraujo147@gmail.com)
 
-### Ferramentas:
+### Ferramentas analíticas:
 
 - <b> Coleta e armazenamento de dados:</b> SQL e MySQL
 - <b> Manipulação de dados:</b> Python, R e Stata
