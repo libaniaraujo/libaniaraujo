@@ -14,17 +14,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libania-araujo-silva/)](https://www.linkedin.com/in/libania-araujo-silva/)
 [![Email Badge](https://img.shields.io/badge/email-libaniaaraujo147@gmail.com-red)](libaniaaraujo147@gmail.com)
 
-### 🛠️ Ferramentas:
+### Ferramentas:
 
 - <b> Coleta e armazenamento de dados:</b> SQL e MySQL
 - <b> Manipulação de dados:</b> Python, R e Stata
 - <b> Visualização de dados:</b> Power BI e Tableau
 
-### 💻 Projetos de análise e ciência de dados:
+### Projetos de análise e ciência de dados:
 
 - [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES) (análise e visualização de dados sobre a compra e venda de imóveis)
 
-### 📚 Materiais de estudo:
+### Materiais de estudo:
 
 - <b>[Python](https://github.com/libaniaraujo/Python) 
 - <b>[R](https://github.com/libaniaraujo/R)
