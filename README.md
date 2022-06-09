@@ -24,6 +24,8 @@
 
 - [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES): análise, visualização e obtenção de insights a partir de um conjunto de dados referente a compra e venda de imóveis.
 
+- [<b>Space Rental (Airbnb Nova York)</b>](https://github.com/libaniaraujo/AIRBNB-NY): análise, visualização e obtenção de insights a partir de um conjunto de dados referente ao aluguel de espaços pela Airbnb na cidade de Nova York.
+
 ### Materiais de estudo e consulta:
 
 - <b>[Python](https://github.com/libaniaraujo/Python) 
