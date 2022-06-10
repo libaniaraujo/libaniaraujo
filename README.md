@@ -28,7 +28,7 @@
 
 - <b>World Happiness Index (Índice Mundial da Felicidade)</b>
 
-### Projetos de análise de dados:
+### Projetos de ciência de dados e machine learning:
 
 -
 
