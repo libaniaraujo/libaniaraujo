@@ -26,7 +26,7 @@
 
 - [<b>Space Rental (Airbnb Nova York)</b>](https://github.com/libaniaraujo/AIRBNB-NY): análise, visualização e obtenção de insights a partir de um conjunto de dados referente ao aluguel de espaços pela Airbnb na cidade de Nova York.
 
-- <b>World Happiness Index (Índice Mundial da Felicidade)</b>
+- [<b>World Happiness Index (Índice Mundial da Felicidade)</b>](https://github.com/libaniaraujo/WORLD-HAPINESS-INDEX):
 
 ### Projetos de ciência de dados e machine learning:
 
