@@ -20,13 +20,17 @@
 - <b> Manipulação de dados:</b> Python, R e Stata
 - <b> Visualização de dados:</b> Power BI e Tableau
 
-### Projetos de análise e ciência de dados:
+### Projetos de análise de dados:
 
 - [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES): análise, visualização e obtenção de insights a partir de um conjunto de dados referente a compra e venda de imóveis.
 
 - [<b>Space Rental (Airbnb Nova York)</b>](https://github.com/libaniaraujo/AIRBNB-NY): análise, visualização e obtenção de insights a partir de um conjunto de dados referente ao aluguel de espaços pela Airbnb na cidade de Nova York.
 
 - <b>World Happiness Index (Índice Mundial da Felicidade)</b>
+
+### Projetos de análise de dados:
+
+-
 
 ### Materiais de estudo e consulta:
 
