@@ -40,7 +40,7 @@
 - <b>[Econometria](https://github.com/libaniaraujo/Econometria)
 - <b>[Ciência de Dados e Machine Learning](https://github.com/libaniaraujo/Ciencia-de-Dados-e-Machine-Learning)
 - <b>[Power BI e Tableau](https://github.com/libaniaraujo/Power-BI-e-Tableau)
-- <b>[Comunidade DS](https://github.com/Comunidade-DS) 
+- <b>[Comunidade DS](https://github.com/libaniaraujo/Comunidade-DS) 
 
 ---
 
