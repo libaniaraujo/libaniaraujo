@@ -28,7 +28,7 @@
 
 - [<b>World Happiness Index (Índice Mundial da Felicidade)</b>](https://github.com/libaniaraujo/WORLD-HAPINESS-INDEX): análise, visualização e conclusões obtidas a partir de um conjunto de dados publicados pelo World Happiness Report (Relatório Mundial da Felicidade) para o ano de 2021.
 
-### Projetos de ciência de dados e machine learning:
+### Projetos de ciência de dados e machine learning [em andamento]:
 
 -
 
