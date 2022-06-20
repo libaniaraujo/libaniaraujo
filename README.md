@@ -24,7 +24,7 @@
 
 - [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES): análise, visualização e obtenção de insights a partir de um conjunto de dados referente a compra e venda de imóveis.
 
-- [<b>Space Rental (Airbnb Nova York)</b>](https://github.com/libaniaraujo/AIRBNB-NY): análise, visualização e obtenção de insights a partir de um conjunto de dados referente ao aluguel de espaços pela Airbnb na cidade de Nova York.
+- [<b>Space Rental (Airbnb Nova York)</b>](https://github.com/libaniaraujo/AIRBNB-NY): análise, visualização e obtenção de insights a partir de um conjunto de dados referente ao aluguel de espaços pela Airbnb na cidade de Nova York em 2019.
 
 - [<b>World Happiness Index (Índice Mundial da Felicidade)</b>](https://github.com/libaniaraujo/WORLD-HAPINESS-INDEX): análise, visualização e conclusões obtidas a partir de um conjunto de dados publicados pelo World Happiness Report (Relatório Mundial da Felicidade) para o ano de 2021.
 
