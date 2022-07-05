@@ -16,7 +16,7 @@
 
 ### Ferramentas analíticas:
 
-- <b> Coleta e armazenamento de dados:</b> SQL (MySQL e PostgreSQL)
+- <b> Coleta e armazenamento de dados:</b> SQL (MySQL, SQLite e PostgreSQL)
 - <b> Manipulação de dados:</b> Python, R e Stata
 - <b> Visualização de dados:</b> Power BI e Tableau
 
