@@ -32,7 +32,7 @@
 
 ### Projetos de ciência de dados e machine learning [em andamento]:
 
-- <b>Store Sale Prediction</b>
+- [<b>Store Sale Prediction</b>](https://github.com/libaniaraujo/STORE-SALE-PREDICTION)
 
 ### Materiais de estudo e consulta:
 
