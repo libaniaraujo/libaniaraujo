@@ -32,7 +32,7 @@
 
 ### Projetos de ciência de dados e machine learning [em andamento]:
 
--
+- <b>Store Sale Prediction</b>
 
 ### Materiais de estudo e consulta:
 
