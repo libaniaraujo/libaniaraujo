@@ -32,7 +32,9 @@
 
 ### Projetos de ciência de dados e machine learning [em andamento]:
 
-- [<b>Store Sale Prediction</b>](https://github.com/libaniaraujo/STORE-SALE-PREDICTION): previsão de vendas.
+- [<b>Store Sale Prediction:</b>](https://github.com/libaniaraujo/STORE-SALE-PREDICTION) previsão de vendas.
+
+- [<b>Health Insurance Cross Sell:</b>](https://github.com/libaniaraujo/Health-Insurance-Cross-Sell) detectar os clientes que são mais propensos a comprar um segundo seguro, mas dessa vez, um seguro de automóvel.
 
 ### Materiais de estudo e consulta:
 
