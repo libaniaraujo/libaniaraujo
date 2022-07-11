@@ -23,10 +23,13 @@
 ### Projetos de análise de dados:
 
 - [<b>House Sales</b>](https://github.com/libaniaraujo/HOUSE-SALES): análise, visualização e obtenção de insights a partir de um conjunto de dados referente a compra e venda de imóveis.
+  - <b>Produto final:</b> [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjdhNjY1NWMtM2NmMS00N2RmLWI1NjMtOGQ0NzViZTNhODNkIiwidCI6IjMyYTQ3YWQwLTZkOWItNGMzYy1hNmJlLWVjZmVmOTlkOGU1NCJ9&pageName=ReportSection79f5cde08ca82ffc405b)
 
 - [<b>Space Rental (Airbnb Nova York)</b>](https://github.com/libaniaraujo/AIRBNB-NY): análise, visualização e obtenção de insights a partir de um conjunto de dados referente ao aluguel de espaços pela Airbnb na cidade de Nova York em 2019.
+  - <b>Produto final:</b> [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjU2NjdmNDEtODVjNy00MmZiLTljMTQtMTQ0M2ZlMzFmZWE0IiwidCI6IjMyYTQ3YWQwLTZkOWItNGMzYy1hNmJlLWVjZmVmOTlkOGU1NCJ9) 
 
 - [<b>World Happiness Index (Índice Mundial da Felicidade)</b>](https://github.com/libaniaraujo/WORLD-HAPINESS-INDEX): análise, visualização e conclusões obtidas a partir de um conjunto de dados publicados pelo World Happiness Report (Relatório Mundial da Felicidade) para o ano de 2021.
+  - <b>Produto final:</b> [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2U1NTNiMmMtMzEwMS00MDNhLTgzMDAtZGUxZDU4OWZhOTZhIiwidCI6IjMyYTQ3YWQwLTZkOWItNGMzYy1hNmJlLWVjZmVmOTlkOGU1NCJ9)
 
 - [<b>Star Jeans</b>](https://github.com/libaniaraujo/STAR-JEANS): webscrapping, análise, visualização e o obtenção de insights sobre a comercialização de calças jeans masculinas pela loja H&M.
 
