@@ -32,7 +32,7 @@
   - <b>Produto final:</b> [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2U1NTNiMmMtMzEwMS00MDNhLTgzMDAtZGUxZDU4OWZhOTZhIiwidCI6IjMyYTQ3YWQwLTZkOWItNGMzYy1hNmJlLWVjZmVmOTlkOGU1NCJ9)
 
 - [<b>Star Jeans</b>](https://github.com/libaniaraujo/STAR-JEANS): webscrapping, análise, visualização e o obtenção de insights sobre a comercialização de calças jeans masculinas pela loja H&M.
-  - <b> Produto final:</b> Dashboard no Tableau
+  - <b> Produto final:</b> [Dashboard no Tableau](https://public.tableau.com/app/profile/libania.araujo.silva/viz/Star-Jeans/Painel1?publish=yes)
 
 ### Projetos de ciência de dados e machine learning [em andamento]:
 
